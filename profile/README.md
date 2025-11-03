@@ -41,5 +41,21 @@ ZyraLabs opera com um ecossistema moderno e flexível:
 
 ---
 
-## 🧩 Estrutura de Projetos
+## 🌐 Conecte-se com a ZyraLabs
+
+- **Site:** [www.zyralabs.ai](https://www.zyralabs.ai)  
+- **Email:** contato@zyralabs.ai  
+- **LinkedIn:** [linkedin.com/company/zyralabs](https://linkedin.com/company/zyralabs)  
+- **Instagram:** [@zyralabs.ai](https://instagram.com/zyralabs.ai)
+
+---
+
+## 🧭 Licença
+
+Este repositório é de uso exclusivo da **ZyraLabs**.  
+Reprodução total ou parcial é proibida sem autorização expressa.
+
+---
+
+### 💬 _“ZyraLabs — Onde a automação encontra a inteligência.”_
 
