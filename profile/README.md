@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zyralabs/.github/main/profile/logo.png" width="120" alt="ZyraLabs Logo"/>
+<img src="https://raw.githubusercontent.com/zyralabs/.github/main/profile/Logo.png" width="120" alt="ZyraLabs Logo"/>
 
 # ⚡️ ZyraLabs  
 ### _Automatizando o amanhã._
