@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.zyralabs.solutions/Logo.png" width="220" alt="ZyraLabs Logo"/>
+<img src="https://www.zyralabs.solutions/Logo.png" width="400" alt="ZyraLabs Logo"/>
 
 ### _Automatizando o amanhã._
 
