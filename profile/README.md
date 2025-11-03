@@ -1,34 +1,47 @@
-# ⚡️ ZyraLabs
+<div align="center">
 
-> **Automatizando o amanhã.**
+<img src="https://raw.githubusercontent.com/zyralabs/.github/main/profile/logo.png" width="120" alt="ZyraLabs Logo"/>
 
-A **ZyraLabs** é um laboratório de inovação especializado no desenvolvimento de **soluções inteligentes** que unem engenharia, design e automação.  
-Nossa missão é criar **experiências digitais que pensam, aprendem e evoluem** junto com o seu negócio.
+# ⚡️ ZyraLabs  
+### _Automatizando o amanhã._
+
+![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
+![AI-Powered](https://img.shields.io/badge/AI-Powered-blueviolet?style=flat-square)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square)
+![License](https://img.shields.io/badge/license-Exclusive-black?style=flat-square)
+
+> **ZyraLabs** é um laboratório de inovação em **Inteligência Artificial, automação e análise de dados**.  
+> Unimos engenharia, design e ciência de dados para desenvolver soluções que **pensam, aprendem e evoluem**.
+
+</div>
 
 ---
 
 ## 🚀 O que fazemos
 
-Na ZyraLabs, desenvolvemos soluções digitais sob medida para empresas visionárias:
+### 🤖 **Agentes Inteligentes**
+Criação de **assistentes personalizados**, copilotos e automações cognitivas para atendimento, suporte e processos empresariais.
 
-- 🤖 **Agentes de Inteligência Artificial** — chatbots, copilotos e automações cognitivas.
-- ⚙️ **Automação de Processos** — elimine tarefas manuais e otimize fluxos operacionais.
-- 💻 **Desenvolvimento Web** — sites, portais e sistemas corporativos com design premium.
-- 🔗 **Integrações & APIs** — conectamos suas ferramentas, dados e sistemas de forma inteligente.
+### ⚙️ **Automações e Integrações**
+Elimine tarefas repetitivas, conecte sistemas e crie fluxos operacionais inteligentes com RPA e APIs sob medida.
+
+### 💻 **Desenvolvimento Web**
+Sites, portais e sistemas corporativos com **design premium, performance e escalabilidade**.
+
+### 📊 **Análise de Dados**
+Transformamos **dados brutos em insights estratégicos** com dashboards, previsões e modelos de Machine Learning.
 
 ---
 
 ## 💡 Nossa visão
 
-Transformar empresas tradicionais em **organizações inteligentes**, usando tecnologia como ponte entre **eficiência e inovação**.
-
 > “Acreditamos em um mundo onde a automação e a IA ampliam o potencial humano — não o substituem.”
+
+Queremos transformar empresas tradicionais em **organizações inteligentes**, onde **dados e algoritmos** guiam decisões e impulsionam resultados.
 
 ---
 
 ## 🧠 Stack Tecnológica
-
-ZyraLabs opera com um ecossistema moderno e flexível:
 
 | Categoria | Tecnologias |
 |------------|--------------|
@@ -36,17 +49,17 @@ ZyraLabs opera com um ecossistema moderno e flexível:
 | Back-end | Laravel • Node.js • FastAPI |
 | Infraestrutura | Docker • AWS • Railway • Nixpacks |
 | Banco de Dados | MySQL • PostgreSQL • Redis |
-| IA & Data | Python • LangChain • OpenAI API • TensorFlow |
+| Data & IA | Python • Pandas • LangChain • OpenAI • TensorFlow |
+| Visualização | Power BI • Superset • Metabase |
 | Design | Figma • Framer • Adobe XD |
 
 ---
 
 ## 🌐 Conecte-se com a ZyraLabs
 
-- **Site:** [www.zyralabs.ai](https://www.zyralabs.ai)  
-- **Email:** contato@zyralabs.ai  
-- **LinkedIn:** [linkedin.com/company/zyralabs](https://linkedin.com/company/zyralabs)  
-- **Instagram:** [@zyralabs.ai](https://instagram.com/zyralabs.ai)
+💼 **Site:** [www.zyralabs.ai]([[https://www.zyralabs.ai](https://www.zyralabs.solutions)](https://www.zyralabs.solutions)  
+📧 **Email:** noreply@zyralabs.solutions
+📸 **Instagram:** [@zyralabs.solutions](https://www.instagram.com/zyralabsoficial)  
 
 ---
 
@@ -57,5 +70,9 @@ Reprodução total ou parcial é proibida sem autorização expressa.
 
 ---
 
-### 💬 _“ZyraLabs — Onde a automação encontra a inteligência.”_
+<div align="center">
+
+### 💬 _“ZyraLabs — Onde dados, automação e inteligência se encontram.”_
+
+</div>
 
