@@ -56,8 +56,8 @@ Queremos transformar empresas tradicionais em **organizações inteligentes**, o
 
 ## 🌐 Conecte-se com a ZyraLabs
 
-💼 **Site:** [www.zyralabs.ai]([[https://www.zyralabs.ai](https://www.zyralabs.solutions)](https://www.zyralabs.solutions)  
-📧 **Email:** noreply@zyralabs.solutions
+💼 **Site:** [https://www.zyralabs.ai](https://www.zyralabs.solutions)
+📧 **Email:** [mailto:noreply@zyralabs.solutions](noreply@zyralabs.solutions)
 📸 **Instagram:** [@zyralabs.solutions](https://www.instagram.com/zyralabsoficial)  
 
 ---
