@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://www.zyralabs.solutions/Logo.png" width="120" alt="ZyraLabs Logo"/>
+<img src="https://www.zyralabs.solutions/Logo.png" width="220" alt="ZyraLabs Logo"/>
 
-# ⚡️ ZyraLabs  
 ### _Automatizando o amanhã._
 
 ![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
