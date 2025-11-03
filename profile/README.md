@@ -60,7 +60,7 @@ Queremos transformar empresas tradicionais em **organizações inteligentes**, o
 
 📧 **Email:** [noreply@zyralabs.solutions](mailto:noreply@zyralabs.solutions)
 
-📸 **Instagram:** [@zyralabs.solutions](https://www.instagram.com/zyralabsoficial)  
+📸 **Instagram:** [@zyralabssolutions](https://www.instagram.com/zyralabssolutions)  
 
 ---
 
